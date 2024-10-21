@@ -62,7 +62,8 @@ If you come up with new creative ways to use these utilities, feel free to raise
 ## 🤔 Questions or Issues?
 If you have any questions, or if anyone knows how to bring color to the fire in the "Blaze of Fire" script, please raise an issue or a pull request!
 
-🔗 Mediun Blog Link
+## 🔗 Mediun Blog Link
+https://ishitasinghal08.medium.com/exploring-fun-with-linux-utilities-a-script-that-does-it-all-4b0cb6d7e212
 
 
 
